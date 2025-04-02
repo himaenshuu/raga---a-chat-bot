@@ -1,4 +1,4 @@
-🚧 **Stuck in Transition! Need Help** 🚧
+🚧 **Stuck in Transition! ** 🚧
 
 It is a live side project and it is yet not completed .
 
