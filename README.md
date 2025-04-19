@@ -1,5 +1,5 @@
 🚧 **Stuck in Transition! ** 🚧
 
-It is a live side project and it is yet not completed .
+It wass a side project and it was never completed .
+- **Hoping it'l in the near future**
 
-I'm currently working on a project that uses the OpenAI API, but I want to transition it to use a Hugging Face model instead. Can someone guide me on how to make this switch? 🤔
