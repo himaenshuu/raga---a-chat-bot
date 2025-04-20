@@ -1,5 +1,5 @@
 ## Stuck in Transition! 
 
-It was a side project and it was never completed .
-Hoping it'll in the near future
+Once, It was a side project but was never completed .
+Hoping it'll be in the near future
 
